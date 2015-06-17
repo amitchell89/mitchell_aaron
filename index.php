@@ -47,6 +47,7 @@ include 'header.php'
 <div class="aboutHeadline">Your one stop shop for all creative services. Let's make something together!</div>
 <img class="portrait" src="images/aaron_mitchell.jpg" alt="Aaron Mitchell"/>
 
+<!--
 <p><span class="highlight">Hello! My name is Aaron Mitchell</span> and I'm a designer living in Portland, ME. I graduated Summa Cum laude from the <span class="highlight">New Hampshire Institute of Art</span> in 2011 with a major in Illustration. While my primary focus was working digitally in the adobe creative suite, I also studied oil painting and have shown my work in several exhibitions.</p>
 <p>Since July 2012 I've worked as a web designer for <span class="highlight">Liquid Wireless, a mobile marketing startup owned by Publishers Clearing House.</span> At Liquid Wireless I've tackled many projects including designing Mobile Advertisements and Landing Pages, building a Mobile First Email template, designing a profitable Android App with over 500K downloads and reorganizing the CSS stylesheets for a large dynamic website.</p>
 
@@ -60,7 +61,14 @@ include 'header.php'
 </ul>
 </p>
 <p>In what remains of my free time I play guitar in the punk rock band Afghan, and have handled all the design and marketing tasks including branding the band, designing album art, flyers, stickers, social media materials and building a mobile friendly website. <span class="highlight">DIY or Die.</span></p> 
+--> 
 
+<p>
+<span class="highlight">Hello! My name is Aaron Mitchell</span> and I'm a User Interface Designer working at Cogo Labs, a startup incubator in Cambridge, MA. My primary responsibilities include designing websites and emails, front end coding and branding work for new projects and verticals. Before joining Cogo Labs in June 2014 I worked as a web designer for Liquid Wireless, a mobile marketing startup owned by Publishers Clearing House.</p>
+
+<p>I graduated Summa Cum laude from the <span class="highlight">New Hampshire Institute of Art</span> in 2011 with a major in Illustration. While my primary focus is working digitally, I've also studied oil painting and have shown my work in several exhibitions.
+</p>
+<div class="clear"></div>
 </sectiion>
 
 <section id="galleryNav">

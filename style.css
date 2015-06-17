@@ -56,6 +56,9 @@ body {
 a {
 	color: #666;
 }
+.clear {
+	clear: both;
+}
 .pageWrap {
 	background: #fff;
 	width: 100%;
